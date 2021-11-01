@@ -8,7 +8,7 @@ In this project, you will implement this method and generate qualitative results
 
 Note that a firm knowledge of GANs is expected for taking up this project. "Learning how a GAN works" is NOT a part of the project.
 
-![](https://github.com/nirajmahajan/Controllable-Gans-Through-Latent-Space-Navigation/tree/master/images/im.png)
+![](https://github.com/nirajmahajan/Controllable-Gans-Through-Latent-Space-Navigation/blob/main/images/im.png)
 
 
 ## Structure and Timeline
