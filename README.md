@@ -47,4 +47,4 @@ It is not much time, so we'll structure the timeline in five-day periods (qweeks
 
 [1] Enjoy your editing : Controllable GANs for image editing via Latent Space Navigation, 2021, https://arxiv.org/abs/2102.01187
 
-Special thanks to [Akkapaka Saikiran](https://github.com/akkapakasaikiran), for the document skeleton.
+Special thanks to [Akkapaka Saikiran](https://github.com/akkapakasaikiran) via [Niraj Mahajan](https://github.com/nirajmahajan), for the document skeleton.
