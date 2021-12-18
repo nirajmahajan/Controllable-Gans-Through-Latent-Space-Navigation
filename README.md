@@ -8,7 +8,7 @@ In this project, you will implement this method and generate qualitative results
 
 Note that a firm knowledge of GANs is expected for taking up this project. "Learning how a GAN works" is NOT a part of the project.
 
-![](https://github.com/nirajmahajan/Controllable-Gans-Through-Latent-Space-Navigation/tree/master/images/im.png)
+![](https://github.com/nirajmahajan/Controllable-Gans-Through-Latent-Space-Navigation/blob/main/images/im.png)
 
 
 ## Structure and Timeline
@@ -33,8 +33,6 @@ It is recommended to *not* leave this till the end, as writing helps crystallize
 
 The project duration is 15 Dec - 15 Jan. 
 It is not much time, so we'll structure the timeline in five-day periods (qweeks: quick week, also quintic means degree 5).
-If time permits, we can explore other attribution methods which build on GradCAM (eg. GradCAM++, AblationCAM, etc.). 
-On the flip side, we can discuss and skip some stuff if there's a time crunch. But here's a tentative timeline.
 
 | Qweek(s) | Dates           | Plan                                  |
 | -------- | --------------- | ------------------------------------- |
@@ -44,20 +42,6 @@ On the flip side, we can discuss and skip some stuff if there's a time crunch. B
 | 4        | 4 Jan - 10 Jan  | Conducting various experiments        |
 | 5        | 10 Jan - 15 Jan | Writing                               |
  
-
-## Resources
-
-- Youtube videos
-	- Stanford CS230: Deep Learning | Autumn 2018 | Lecture 7 - Interpretability of Neural Network, https://youtu.be/gCJCgQW_LKc 
-	- Stanford CS231n: Convolutional Neural Networks for Visual Recognition, 2017, Lecture 12 | Visualizing and Understanding, https://youtu.be/6wcs6szJWMY
-	- Visual Saliency: From simple gradient based approach to GradCAM, https://youtu.be/xGZfAoh0xKs 
-
-- Articles / blog posts
-	- Grad-CAM: Visual Explanations from Deep Networks, https://glassboxmedicine.com/2020/05/29/grad-cam-visual-explanations-from-deep-networks/  
-	- Summary of "Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps" paper, https://gist.github.com/shagunsodhani/f48da7f77418aa22751ffed115779126 
-
-- Code
-	- Class Activation Map methods implemented in Pytorch, https://github.com/jacobgil/pytorch-grad-cam/
 
 ## References
 
